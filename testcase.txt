@@ -8,3 +8,5 @@ Test case 2
 Defect retest
 Test case 1
 Test case 2
+
+Regression test cases completed
